@@ -1,0 +1,5 @@
+# Ignore environment files (do not commit secrets)
+.env
+.env.*
+.env.local
+.env.*.local
